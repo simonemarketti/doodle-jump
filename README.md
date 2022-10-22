@@ -1,4 +1,4 @@
-# Doodle Jump Game
+# Doodle Jump
 
 ## Overview
 
